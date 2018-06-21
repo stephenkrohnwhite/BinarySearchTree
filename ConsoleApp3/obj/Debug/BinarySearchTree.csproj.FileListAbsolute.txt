@@ -1,0 +1,7 @@
+c:\users\steph\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+c:\users\steph\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+c:\users\steph\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+c:\users\steph\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\BinarySearchTree.csprojResolveAssemblyReference.cache
+c:\users\steph\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\BinarySearchTree.csproj.CoreCompileInputs.cache
+c:\users\steph\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+c:\users\steph\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
